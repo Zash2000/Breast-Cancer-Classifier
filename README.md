@@ -16,7 +16,7 @@ Hyperparameter tuning
 Performance metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
 ## 📌 Dataset
-This project uses a modified version of the Breast Cancer Wisconsin (Diagnostic) Data Set, () originally available from the UCI Machine Learning Repository.  
+This project uses a modified version of the Breast Cancer Wisconsin (Diagnostic) Data Set, (./data/Cancer dataset.csv) originally available from the UCI Machine Learning Repository.  
 
 ## 🚀 Technologies Used
 - R programming language
